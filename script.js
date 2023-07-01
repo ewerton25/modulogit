@@ -1,0 +1,1 @@
+console.log("Aqui temos um arquivo que java script que será commitado");
