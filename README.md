@@ -5,3 +5,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Este é um projeto para testar o README no Github
+
+Atualização feita no GITHUB
